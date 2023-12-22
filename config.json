@@ -1,0 +1,23 @@
+```json
+{
+  "botkit": {
+    "token": "YOUR_BOTKIT_TOKEN"
+  },
+  "botframework": {
+    "appId": "YOUR_BOTFRAMEWORK_APP_ID",
+    "appPassword": "YOUR_BOTFRAMEWORK_APP_PASSWORD"
+  },
+  "dialogflow": {
+    "projectId": "YOUR_DIALOGFLOW_PROJECT_ID",
+    "privateKey": "YOUR_DIALOGFLOW_PRIVATE_KEY",
+    "clientEmail": "YOUR_DIALOGFLOW_CLIENT_EMAIL"
+  },
+  "openai": {
+    "apiKey": "YOUR_OPENAI_API_KEY"
+  },
+  "botpress": {
+    "botId": "YOUR_BOTPRESS_BOT_ID",
+    "botSecret": "YOUR_BOTPRESS_BOT_SECRET"
+  }
+}
+```

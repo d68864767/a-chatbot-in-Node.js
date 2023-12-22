@@ -1,0 +1,30 @@
+```json
+{
+  "name": "chatbot-project",
+  "version": "1.0.0",
+  "description": "A chatbot project using various libraries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "botkit": "^4.10.1",
+    "botframework": "^4.14.1",
+    "dialogflow": "^1.2.0",
+    "openai": "^0.0.3",
+    "botpress": "^12.26.6"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "chatbot",
+    "node.js",
+    "botkit",
+    "botframework",
+    "dialogflow",
+    "openai",
+    "botpress"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
+```
